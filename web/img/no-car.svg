@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="800" height="600" fill="#f0f0f0"/>
+  <g transform="translate(200,150) scale(0.8)">
+    <path d="M50,200 L150,200 L180,150 L350,150 L380,200 L450,200 L450,280 L50,280 Z" 
+          fill="#cccccc" stroke="#999999" stroke-width="4"/>
+    <rect x="100" y="280" width="80" height="40" rx="20" fill="#333" />
+    <rect x="310" y="280" width="80" height="40" rx="20" fill="#333" />
+    <rect x="140" y="180" width="80" height="20" fill="#aaa" />
+    <rect x="280" y="180" width="80" height="20" fill="#aaa" />
+    <text x="250" y="360" font-family="Arial, sans-serif" font-size="20" fill="#777" text-anchor="middle">Нет фото</text>
+  </g>
+</svg>
